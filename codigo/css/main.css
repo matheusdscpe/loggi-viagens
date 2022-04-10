@@ -1,0 +1,30 @@
+.box1{
+    border: 2px solid red;
+    background-image: url(./imagens/london.jpg);
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+}
+    
+   
+img{
+    height: 100px;
+
+}
+
+
+
+
+
+
+
+.box2{
+    border: 2px solid red;
+}
+.box3{
+    border: 2px solid red;
+}
+.box4{
+    border: 2px solid red;
+}

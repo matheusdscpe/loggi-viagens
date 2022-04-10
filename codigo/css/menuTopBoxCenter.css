@@ -1,0 +1,33 @@
+.flight{
+    border: solid 2px red;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#airplane{
+    height: 60%;
+    width: 9%;
+}
+
+.hotel{
+    border: solid 2px red;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}#bed{
+    height: 60%;
+    width: 9%;
+}
+
+.rental{
+    border: solid 2px red;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}#car{
+    height: 60%;
+    width: 9%;
+}
