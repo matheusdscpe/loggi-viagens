@@ -1,0 +1,21 @@
+.travel{
+    border: red solid 2px;
+    display: grid;
+    grid-template-rows: 50% 50%;
+}.travel h2{
+    margin: 0%;
+    padding: 0%;
+    border: solid 2px green;
+}
+.boxIputBoxCenter{
+    display: flex;
+}.boxIputBoxCenter p{
+    margin: 0%;
+}
+
+.from{
+    border: solid red 2px;
+}
+.to{
+    border: solid red 2px;
+}

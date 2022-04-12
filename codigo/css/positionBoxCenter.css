@@ -18,9 +18,12 @@
 }
 
 .menuBoxCenter{
-    /*border: solid 2px yellow;*/
+    border: solid 2px rgb(93, 93, 93);
     height: 100%;
     background-color: rgb(255, 255, 255);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+.pTopBoxCenter{
+    padding-left: 2%;
 }
